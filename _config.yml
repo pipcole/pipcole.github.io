@@ -1,5 +1,5 @@
 # ===== Basic site settings =====
-title: "Philippa S. Cole"
+title: "Dr Philippa S. Cole"
 description: "Astrophysicist and science writer"
 author: "Philippa Cole"
 email: "philippa.cole@unimib.it"
@@ -7,7 +7,7 @@ baseurl: ""  # leave empty for yourusername.github.io
 url: "https://pipcole.github.io"
 
 # ===== Theme (built-in to GitHub Pages) =====
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 
 # ===== Navigation menu =====
 # These pages should exist as Markdown files (e.g. research.md)
