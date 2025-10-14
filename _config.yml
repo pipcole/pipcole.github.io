@@ -1,0 +1,34 @@
+# ===== Basic site settings =====
+title: "Philippa S. Cole"
+description: "Astrophysicist | Data Scientist | Explorer of the Universe"
+author: "Philippa Cole"
+email: "philippa.cole@unimib.it"
+baseurl: ""  # leave empty for yourusername.github.io
+url: "https://pipcole.github.io"
+
+# ===== Theme (built-in to GitHub Pages) =====
+theme: jekyll-theme-minimal
+
+# ===== Navigation menu =====
+# These pages should exist as Markdown files (e.g. research.md)
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research
+  - title: "CV"
+    url: /cv
+  - title: "Outreach"
+    url: /outreach
+
+# ===== Social links (optional) =====
+social_links:
+  github: yourusername
+  orcid: 0000-0001-6045-6358
+  linkedin: https://www.linkedin.com/in/pippa-cole-57545569/
+
+# ===== Markdown and plugins =====
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
