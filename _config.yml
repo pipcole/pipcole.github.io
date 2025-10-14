@@ -32,3 +32,10 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+sass:
+  style: compressed
+
+# Add a custom stylesheet
+include:
+  - _sass
