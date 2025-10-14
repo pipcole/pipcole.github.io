@@ -1,0 +1,39 @@
+/* _sass/custom.scss */
+
+/* Change the background color */
+body {
+  background-color: #fefcfb;
+}
+
+/* Change text color */
+body, p, li {
+  color: #333333;
+}
+
+/* Change link colors */
+a {
+  color: #1f77b4;
+}
+
+a:hover {
+  color: #ff7f0e;
+}
+
+/* Change header colors */
+h1, h2, h3, h4 {
+  color: #222222;
+}
+
+/* Navbar / site title area */
+.site-title, .site-nav {
+  background-color: #ffffff;
+  color: #2a2a2a;
+}
+
+/* Optional: Add a soft shadow and rounded cards to main content */
+.page-content {
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0px 4px 8px rgba(0,0,0,0.05);
+}
