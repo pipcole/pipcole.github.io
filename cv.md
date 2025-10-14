@@ -8,6 +8,6 @@ permalink: /cv/
 
 You can view or download my full CV here:
 
-[📄 **Download CV (PDF)**](/assets/CV.pdf)
+[📄 **Download CV (PDF)**](/assets/Cole_CV_website.pdf)
 
 *(Note: make sure your CV file is uploaded to `/assets/CV.pdf` in your repository.)*
