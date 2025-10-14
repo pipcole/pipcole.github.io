@@ -7,7 +7,7 @@ baseurl: ""  # leave empty for yourusername.github.io
 url: "https://pipcole.github.io"
 
 # ===== Theme (built-in to GitHub Pages) =====
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 
 # ===== Navigation menu =====
 # These pages should exist as Markdown files (e.g. research.md)
