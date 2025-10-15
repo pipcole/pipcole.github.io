@@ -38,4 +38,4 @@ sass:
 
 # Add a custom stylesheet
 include:
-  - _sass
+  - /_sass/
