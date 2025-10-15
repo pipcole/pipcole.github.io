@@ -17,7 +17,7 @@ I am a core member of the LISA Consortium, and I co-chair the Square Kilometre A
 
 <figure style="text-align:center;">
   <img src="assets/LISA.jpg" alt="Artist's impression of the LISA mission. Credit: ESA" width="70%">
-  <figcaption><b>Figure 1.</b> Artist's impression of the LISA mission. Credit: ESA.</figcaption>
+  <figcaption>Artist's impression of the LISA mission. Credit: ESA.</figcaption>
 </figure>
 
 
