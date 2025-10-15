@@ -16,7 +16,7 @@ You can find a list of my publications <a href="https://inspirehep.net/authors/1
 I am a core member of the LISA Consortium, and I co-chair the Square Kilometre Array Observatory (SKAO) gravitational waves working group with Nicola Bellomo.
 
 <figure style="text-align:center;">
-  <img src="assets/LISA.jpg" alt="Artist's impression of the LISA mission. Credit: ESA" width="70%">
+  <img src="/assets/LISA.jpg" alt="Artist's impression of the LISA mission. Credit: ESA" width="70%">
   <figcaption>Artist's impression of the LISA mission. Credit: ESA.</figcaption>
 </figure>
 
