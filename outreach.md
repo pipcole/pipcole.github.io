@@ -10,7 +10,8 @@ I am passionate about the importance of engaging with the public and communities
 
 ### Selected Activities
 
-- **School workshops** — I delivered two workshops on gravitational waves for high-school students in Milan.  
+- **School workshops** — I delivered two workshops on gravitational waves for high-school students in Milan, as well as a presentation on my research and career for high-school students in Monza celebrating International Women and Girls in Science day.
+- **Interviews and panels** — I was interviewed about my career and research as part of the Women at the Top Summit 2025 in Milan, organised by Il Sole 24 Ore, the Financial Times and Sky TG24.  
 - **Volunteering** — I represented the James Webb Space Telescope at BlueDot festival in Manchester, UK and I volunteered at the Cosmonauts exhibition at the Science Museum in London.
 - **Music projects** — I contributed accompanying text for Arthur Jeffes' 'Sounds of the Universe' piano composition which is based on gravitational wave chirp data! Listen <a href="https://www.youtube.com/watch?v=5ZVbxfPGi08" target="_blank" rel="noopener noreferrer">here.</a>
 - **Science writing and editing** — I am an Astrophysics Editor at the arts-science magazine <a href="https://seismamag.com" target="_blank" rel="noopener noreferrer">SEISMA</a> and was previously a science writer at the London Institute for Mathematical Sciences. I was also an author for Astrobites during my PhD, where I summarised technical publications for undergraduates - you can read my articles <a href="https://astrobites.org/author/pcole/" target="_blank" rel="noopener noreferrer">here</a>.
@@ -18,4 +19,9 @@ I am passionate about the importance of engaging with the public and communities
 <figure style="text-align:center;">
   <img src="/assets/bluedot.jpeg" alt="BlueDot festival in Manchester, featuring the Lovell Space Telescope." width="100%">
   <figcaption>BlueDot festival in Manchester, featuring the Lovell Space Telescope.</figcaption>
+</figure>
+
+<figure style="text-align:center;">
+  <img src="/assets/watt.jpeg" alt="Women at the Top Summit 2025." width="100%">
+  <figcaption>Women at the Top Summit 2025.</figcaption>
 </figure>
