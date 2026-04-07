@@ -7,23 +7,8 @@ baseurl: ""  # leave empty for yourusername.github.io
 url: "https://pipcole.github.io"
 
 # ===== Theme (built-in to GitHub Pages) =====
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-minimal
 
-author:
-  name: "Dr Philippa S. Cole"
-  bio: "Lecturer in Applied AI at QMUL. Gravitational waves, dark matter, primordial black holes."
-  avatar: "/assets/images/profile.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:p.s.cole@qmul.ac.uk"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/pipcole"
-    - label: "ORCID"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0001-6045-6358"
-      
 # ===== Navigation menu =====
 # These pages should exist as Markdown files (e.g. research.md)
 navigation:
