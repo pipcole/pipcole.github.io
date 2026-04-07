@@ -22,6 +22,6 @@ I am passionate about the importance of engaging with the public and communities
 </figure>
 
 <figure style="text-align:center;">
-  <img src="/assets/watt.jpeg" alt="Women at the Top Summit 2025." width="100%">
+  <img src="/assets/watt.JPG" alt="Women at the Top Summit 2025." width="100%">
   <figcaption>Women at the Top Summit 2025.</figcaption>
 </figure>
